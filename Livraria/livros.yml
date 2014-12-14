@@ -1,0 +1,56 @@
+--- !ruby/object:Livro
+titulo: Teste e Design
+autor: Mauricio Xabablau
+isbn: '123456'
+numero_de_paginas: 247
+valor: 60.9
+categoria: :testes
+
+--- !ruby/object:Livro
+titulo: Ruby - Aprenda a linguagem mais divertida
+autor: Lucas Souza
+isbn: '654321'
+numero_de_paginas: 247
+valor: 50.9
+categoria: :ruby
+
+--- !ruby/object:Livro
+titulo: Coloque sua aplicação web nos trilhos
+autor: Roberto Xabablau
+isbn: '2785366'
+numero_de_paginas: 347
+valor: 20.9
+categoria: :ruby
+
+--- !ruby/object:Livro
+titulo: Livro 1
+autor: Exemplo1 Xabablau
+isbn: 163y71263
+numero_de_paginas: 47
+valor: 10.9
+categoria: :exemplo1
+
+--- !ruby/object:Livro
+titulo: Livro 2
+autor: exemplo2 Xabablau
+isbn: 123wew456
+numero_de_paginas: 247
+valor: 60.9
+categoria: :exemplo2
+
+--- !ruby/object:Livro
+titulo: Teste e Design
+autor: Mauricio Xabablau
+isbn: '123456'
+numero_de_paginas: 247
+valor: 60.9
+categoria: :testes
+
+--- !ruby/object:Livro
+titulo: Ruby - Aprenda a linguagem mais divertida
+autor: Lucas Souza
+isbn: '654321'
+numero_de_paginas: 247
+valor: 50.9
+categoria: :ruby
+
